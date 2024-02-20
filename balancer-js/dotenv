@@ -1,0 +1,4 @@
+BALANCER_SUBGRAPH_URL="https://api.thegraph.com/subgraphs/name/balancer-labs/balancer-v2"
+ALCHEMY_URL="ALCHEMY_URL"
+RPC_URL_TENET_TESTNET = "https://rpc.testnet.tenet.org"
+TRADER_KEY="TRADER_KEY"
