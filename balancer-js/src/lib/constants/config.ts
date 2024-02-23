@@ -534,8 +534,8 @@ export const BALANCER_NETWORK_CONFIG: Record<Network, BalancerNetworkConfig> = {
     },
     thirdParty: {
       coingecko: {
-        nativeAssetId: 'eth',
-        platformId: 'arbitrum-one',
+        nativeAssetId: 'tenet',
+        platformId: 'tenet',
       },
     },
     pools: {},
